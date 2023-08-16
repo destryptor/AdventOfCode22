@@ -1,3 +1,4 @@
+//Had to hardcode the stacks since parsing the input file was a huge pain in C
 #include<stdio.h>
 #include<stdlib.h>
 
