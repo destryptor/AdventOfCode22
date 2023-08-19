@@ -1,3 +1,5 @@
+//Sorry for hardcoding the queues, I couldn't figure out how to parse the input properly
+
 #include <stdio.h>
 #include <stdlib.h>
 
